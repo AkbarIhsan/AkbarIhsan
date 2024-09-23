@@ -60,7 +60,7 @@
             <div class="lg:w-[250px] lg:h-[250px] w-[150px] h-[150px] rounded-full border border-dashed absolute"></div>
 
             <!-- logo -->
-            <div class="absolute transform origin-center animate-spinSlow">
+            <div class="absolute transform origin-center animate-spinSlow2 lg:animate-spinSlow">
                 <img src="@\assets\mars.png" alt="mars" class="w-10 h-10">
             </div>
 

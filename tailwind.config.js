@@ -48,6 +48,10 @@ export default {
           'from': { transform: 'rotate(0deg) translateX(225px) rotate(0deg)' },
           'to': { transform: 'rotate(360deg) translateX(225px) rotate(-360deg)' },
         },
+        spinSlow2:{
+          'from': { transform: 'rotate(0deg) translateX(175px) rotate(0deg)' },
+          'to': { transform: 'rotate(360deg) translateX(175px) rotate(-360deg)' },
+        },
         wave: {
           '0%, 100%': { transform: 'translateY(0)' },
           '50%': { transform: 'translateY(-20px)' }, 
@@ -58,7 +62,8 @@ export default {
         marquee2: 'marquee2 5s linear infinite',
         marquee3: 'marquee3 30s linear infinite',
         marquee4: 'marquee4 30s linear infinite',
-        spinSlow: 'spinSlow 10s linear infinite',  
+        spinSlow: 'spinSlow 10s linear infinite',
+        spinSlow2: 'spinSlow2 10s linear infinite',  
         wave: 'wave 2s steps(2, jump-both) infinite',
       },
       textShadow:{
