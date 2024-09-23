@@ -3,7 +3,7 @@
         <div class="flex flex-col lg:flex-row justify-between w-full h-full relative">
             <!-- foto -->
             <div class="w-full h-auto flex justify-center">
-                <img data-aos="zoom-out" class="aos-init w-[90%] lg:w-full lg:h-[600px] h-[500px] grayscale z-10" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\aku1.png" alt="">
+                <img data-aos="zoom-out" class="aos-init w-[90%] lg:w-full lg:h-[600px] h-[500px] grayscale z-10" src="@\assets\aku1.png" alt="">
                 <div class="bg-black blur-xl top-[400px] left-3 lg:top-[500px] lg:-left-10  w-full h-48 absolute z-10"></div>
             </div>
 
@@ -15,7 +15,7 @@
                     <div class="flex justify-center lg:justify-start">
                         <Button class="text-lg flex flex-row items-center relative" to="https://wa.me/081459177100">
                             <h1 class="pr-10">Happy to chat on WhatsApp</h1>
-                            <img class="w-auto h-[80%] right-2 absolute hover:shadow-lg" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\whatsapp.png" alt="">
+                            <img class="w-auto h-[80%] right-2 absolute hover:shadow-lg" src="@\assets\whatsapp.png" alt="">
                         </Button>
                     </div>
             </div>
@@ -61,7 +61,7 @@
 
             <!-- logo -->
             <div class="absolute transform origin-center animate-spinSlow">
-                <img src="D:\magang\tugas\portofolio\AkbarIhsan\assets\mars.png" alt="mars" class="w-10 h-10">
+                <img src="@\assets\mars.png" alt="mars" class="w-10 h-10">
             </div>
 
             <div class="absolute w-2/3 text-center">

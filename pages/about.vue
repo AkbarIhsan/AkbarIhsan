@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="w-[2000px] h-full relative hidden lg:flex">
-                <img data-aos="zoom-out" class="aos-init w-full h-[600px] grayscale z-5" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\aku1.png" alt="">
+                <img data-aos="zoom-out" class="aos-init w-full h-[600px] grayscale z-5" src="@\assets\aku1.png" alt="">
             </div>
         </div>
     </div>

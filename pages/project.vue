@@ -7,7 +7,7 @@
             <Card>
                 <template #image>
                     <div class="w-full h-full flex justify-center relative">
-                        <img class="rounded-xl w-full h-full" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\falldetection.png" alt="">
+                        <img class="rounded-xl w-full h-full" src="@\assets\falldetection.png" alt="">
                     </div>
                 </template>
                 <template #kalimat>
@@ -24,7 +24,7 @@
             
             <Card>
                 <template #image>
-                    <img class="rounded-xl w-full h-full" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\wma.png" alt="">
+                    <img class="rounded-xl w-full h-full" src="@\assets\wma.png" alt="">
                 </template>
                 <template #kalimat>
                     <div class="p-5 w-full h-full flex flex-col justify-between">
@@ -40,7 +40,7 @@
 
             <Card>
                 <template #image>
-                    <img class="rounded-xl w-full h-full" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\malangcamp.png" alt="">
+                    <img class="rounded-xl w-full h-full" src="@\assets\malangcamp.png" alt="">
                 </template>
                 <template #kalimat>
                     <div class="p-5 w-full h-full flex flex-col justify-between">
@@ -58,7 +58,7 @@
             <h4 class="text-sm text-hunt4 tracking-widest">CONTACT ME IF YOU ARE INTERESTED</h4>
             <Button class="text-lg flex flex-row items-center relative" to="https://wa.me/081459177100">
                     <h1 class="pr-10">Happy to chat on WhatsApp</h1>
-                    <img class="w-auto h-[80%] right-2 absolute hover:shadow-lg" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\whatsapp.png" alt="">
+                    <img class="w-auto h-[80%] right-2 absolute hover:shadow-lg" src="@\assets\whatsapp.png" alt="">
             </Button>
         </div>
     </div>
