@@ -17,7 +17,7 @@
             </div>
         </nuxtLink>
 
-        <div class="w-[90%] h-16 mt-14">
+        <div class="w-[90%] h-16 mt-14 text-xs md:text-base">
             <div class="w-full h-full flex justify-between items-center border rounded-full text-hunt5 cursor-pointer">
                 <div class="border-r rounded-l-full w-full h-full hover:bg-hunt4/20">
                     <NuxtLink class="w-full h-full items-center justify-center flex" to="https://www.instagram.com/akbar.ihs?igsh=aDV4YmIzNmd5dm14">INSTAGRAM</NuxtLink>
@@ -36,12 +36,12 @@
             </div>
         </div>
 
-        <div class="w-full h-auto mt-16 px-20 flex flex-row justify-between">
-            <div class="w-full flex flex-row gap-2 items-center">
+        <div class="w-full h-auto mt-16 px-20 flex flex-col justify-center items-center lg:flex-row lg:justify-between">
+            <div class="w-full flex flex-row gap-2 items-center justify-center lg:justify-start">
                 <img class="w-12 h-12" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\logo.png" alt="">
                 <h1>mnakbarihsan@gmail.com</h1>
             </div>
-            <div class="w-full text-end">
+            <div class="w-full lg:text-end text-center">
                 &copy; MyPortofolio2024
             </div>
         </div>

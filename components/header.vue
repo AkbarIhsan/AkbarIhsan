@@ -1,10 +1,10 @@
 <template>
         <!-- logo+available -->
-        <div class="w-full absolute h-20 flex justify-between items-end py-3 px-10 z-35">
+        <div class="w-full absolute h-20 hidden lg:flex justify-between items-end py-3 px-10 z-35">
             <div class="flex items-center pl-5">
                 <img class="w-14 h-14" src="D:\magang\tugas\portofolio\AkbarIhsan\assets\logo.png" alt="">
             </div>
-            <NuxtLink class="text-hunt5 text-sm bg-hunt6 border border-hunt5 shadow-full shadow-hunt5/20 font-dm rounded-full relative flex overflow-hidden w-44" to="https://wa.me/081459177100">
+            <NuxtLink class="text-hunt5 text-sm bg-hunt6 border border-hunt5 shadow-full shadow-hunt5/20 font-dm rounded-full relative hidden lg:flex overflow-hidden w-44" to="https://wa.me/081459177100">
                 <div class="py-3 animate-marquee whitespace-nowrap">
                     <span class="mx-2">Available for work</span>
                 </div>

@@ -1,8 +1,8 @@
 <template>
-    <div class="w-full h-auto shadow-2xl shadow-hunt4/50 bg-black z-10 flex flex-col items-center py-20">
+    <div class="w-full h-auto shadow-2xl shadow-hunt4/50 bg-black z-10 flex flex-col items-center mt-10 py-20">
         <div class="absolute w-60 h-60 rounded-full bg-hunt4/80 blur-[180px] left-0 top-0"></div>
         <div class="absolute w-60 h-60 rounded-full bg-hunt4/80 blur-[180px] right-0 bottom-0"></div>
-        <h1 class="text-[110px] font-medium tracking-wider">My Projects</h1>
+        <h1 class="lg:text-[110px] text-6xl font-medium tracking-wide text-center">My Projects</h1>
         <div class="w-full h-full flex flex-wrap justify-center gap-5 py-10">
             <Card>
                 <template #image>
