@@ -27,7 +27,7 @@
     </div>
 
     <div class="w-full h-auto bg-black z-20">
-        <div class="flex w-full h-[700px] lg:h-screen items-center justify-center relative aos-init"  data-aos="zoom-in">
+        <div class="flex w-full h-[700px] lg:h-screen items-center justify-center relative" data-aos="zoom-in">
             <!-- inti -->
             <div class="w-80 h-80 rounded-full bg-hunt4 blur-[160px]"></div>
             
