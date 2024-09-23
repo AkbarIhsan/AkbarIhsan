@@ -32,20 +32,20 @@
             <div class="w-80 h-80 rounded-full bg-hunt4 blur-[160px]"></div>
             
             <!-- jalur luar -->
-            <div class="w-[450px] h-[450px] rounded-full border border-dashed absolute flex items-center justify-center">
-                <Planet class="right-20 top-0">
+            <div class="lg:w-[450px] lg:h-[450px] w-[350px] h-[350px] rounded-full border border-dashed absolute flex items-center justify-center">
+                <Planet class="lg:right-20 -top-10">
                     Nuxt.Js
                 </Planet>
-                <Planet class="lg:-left-5 left-5 top-16">
+                <Planet class="lg:-left-5 left-0 lg:top-16 top-5">
                     Next.Js
                 </Planet>
-                <Planet class="right-20 bottom-40">
+                <Planet class="lg:right-20 -right-10 lg:bottom-40 bottom-28">
                     Laravel
                 </Planet>
-                <Planet class="lg:-right-48 right-0 top-14">
+                <Planet class="lg:-right-48 right-7 top-5">
                     HTML
                 </Planet>
-                <Planet class="lg:-left-40 left-0 bottom-36 ">
+                <Planet class="lg:-left-40 -left-10 bottom-36 ">
                     CSS
                 </Planet>
                 <Planet class="right-0 bottom-5">
@@ -57,7 +57,7 @@
             </div>
             
             <!-- jalur dalam -->
-            <div class="w-[250px] h-[250px] rounded-full border border-dashed absolute"></div>
+            <div class="lg:w-[250px] lg:h-[250px] w-[150px] h-[150px] rounded-full border border-dashed absolute"></div>
 
             <!-- logo -->
             <div class="absolute transform origin-center animate-spinSlow">
@@ -86,8 +86,8 @@
         <div class="w-full flex flex-wrap lg:flex-nowrap justify-between px-10 gap-10">
             <div class="w-full h-[380px] border border-hunt5/30 lg:px-20 px-5 backdrop-blur-3xl rounded-3xl flex flex-col justify-center">
                 <div class="w-full h-full flex flex-row items-center">
-                    <h1 class="text-[110px] font-handjet">01</h1>
-                    <h1 class="text-4xl font-karla font-extrabold tracking-widest px-3">UI DESIGN</h1>
+                    <h1 class="text-7xl lg:text-[110px] font-handjet">01</h1>
+                    <h1 class="text-xl lg:text-4xl font-karla font-extrabold tracking-widest px-2">UI DESIGN</h1>
                 </div>
                 <div class="w-full h-full">
                     <p class="text-hunt5/70">
@@ -97,8 +97,8 @@
             </div>
             <div class="w-full h-[380px] border border-hunt5/30 lg:px-20 px-5 py-5 backdrop-blur-3xl rounded-3xl flex flex-col justify-center">
                 <div class="w-full h-full flex flex-row items-center">
-                    <h1 class="text-[110px] font-handjet">02</h1>
-                    <h1 class="text-xl lg:text-4xl font-karla font-extrabold tracking-widest px-3">WEB DEVELOPMENT</h1>
+                    <h1 class="text-7xl lg:text-[110px] font-handjet">02</h1>
+                    <h1 class="text-xl lg:text-4xl font-karla font-extrabold tracking-widest px-2">WEB DEVELOPMENT</h1>
                 </div>
                 <div class="w-full h-full">
                     <p class="text-hunt5/70">
