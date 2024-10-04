@@ -33,7 +33,7 @@
             
             <!-- jalur luar -->
             <div class="lg:w-[450px] lg:h-[450px] w-[350px] h-[350px] rounded-full border border-dashed absolute flex items-center justify-center">
-                <Planet class="lg:right-20 -top-10">
+                <Planet class="lg:right-20 -top-10 lg:-top-2">
                     Nuxt.Js
                 </Planet>
                 <Planet class="lg:-left-5 left-0 lg:top-16 top-5">
